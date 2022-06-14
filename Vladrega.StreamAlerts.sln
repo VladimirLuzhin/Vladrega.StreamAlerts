@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vladrega.StreamAlerts", "Vladrega.StreamAlerts\Vladrega.StreamAlerts.csproj", "{C184205B-CCAE-4FD4-A235-9D51F0F7489A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vladrega.StreamAlerts.Connectors", "Vladrega.StreamAlerts.Connectors\Vladrega.StreamAlerts.Connectors.csproj", "{AAB06459-7A3F-45D6-8AF1-3F3C68AB491D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vladrega.StreamAlerts.Core", "Vladrega.StreamAlerts.Core\Vladrega.StreamAlerts.Core.csproj", "{C31462EB-B92E-41CB-9DEB-0A869DE29B07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C184205B-CCAE-4FD4-A235-9D51F0F7489A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C184205B-CCAE-4FD4-A235-9D51F0F7489A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C184205B-CCAE-4FD4-A235-9D51F0F7489A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C184205B-CCAE-4FD4-A235-9D51F0F7489A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAB06459-7A3F-45D6-8AF1-3F3C68AB491D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB06459-7A3F-45D6-8AF1-3F3C68AB491D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB06459-7A3F-45D6-8AF1-3F3C68AB491D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB06459-7A3F-45D6-8AF1-3F3C68AB491D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C31462EB-B92E-41CB-9DEB-0A869DE29B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C31462EB-B92E-41CB-9DEB-0A869DE29B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C31462EB-B92E-41CB-9DEB-0A869DE29B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C31462EB-B92E-41CB-9DEB-0A869DE29B07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
